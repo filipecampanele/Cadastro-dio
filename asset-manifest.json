@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/filipecampanele/Cadastro-dio.git/static/css/main.d78c84a2.css",
+    "main.js": "/filipecampanele/Cadastro-dio.git/static/js/main.f21a166a.js",
+    "index.html": "/filipecampanele/Cadastro-dio.git/index.html",
+    "main.d78c84a2.css.map": "/filipecampanele/Cadastro-dio.git/static/css/main.d78c84a2.css.map",
+    "main.f21a166a.js.map": "/filipecampanele/Cadastro-dio.git/static/js/main.f21a166a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d78c84a2.css",
+    "static/js/main.f21a166a.js"
+  ]
+}
